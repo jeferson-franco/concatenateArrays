@@ -1,0 +1,20 @@
+{
+    "name": "concatenatearrays",
+    "version": "1.0.0",
+    "description": "Given two arrays of integers `a` and `b`, obtain the array formed by the elements of `a` followed by the elements of `b`.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/concatenateArrays.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/concatenateArrays/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/concatenateArrays#readme"
+}
